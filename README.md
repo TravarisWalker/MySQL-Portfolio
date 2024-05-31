@@ -1,4 +1,4 @@
-<h1>SQL Project</h1>
+<h1>SQL Project - Categorizing Types of Purchasers</h1>
 
 
 <h2>Description</h2>
